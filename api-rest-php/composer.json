@@ -1,0 +1,16 @@
+{
+    "name": "joaovjo/api-rest-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Vitor",
+            "email": "joao-j-v@hotmail.com"
+        }
+    ],
+    "require": {}
+}
